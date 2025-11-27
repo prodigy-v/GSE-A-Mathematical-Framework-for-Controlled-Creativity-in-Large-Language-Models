@@ -43,12 +43,12 @@ batch_size = 4         # 🟡 Should be 32-1024
 🏗️ Architecture
 Core Components
 text
-GSECompleteSystem/
-├── CustomTransformer          # Base transformer architecture
-├── SemanticStateSpace         # Semantic embedding space
-├── CreativityStateRegulator   # λ-γ parameter controller
-├── GSEEnergyModification      # Core GSE mathematical framework
-└── MemoryEfficientTrainer     # T2000-optimized training
+GSECompleteSystem Inside main.py
+─ CustomTransformer          # Base transformer architecture
+─ SemanticStateSpace         # Semantic embedding space
+─ CreativityStateRegulator   # λ-γ parameter controller
+─ GSEEnergyModification      # Core GSE mathematical framework
+─ MemoryEfficientTrainer     # T2000-optimized training
 Mathematical Foundation
 math
 E_{GSE}(s_t) = E(s_t) + [ -λ·N(s_t) + γ·C(s_t) ]
