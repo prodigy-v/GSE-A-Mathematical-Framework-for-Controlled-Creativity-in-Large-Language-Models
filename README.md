@@ -1,9 +1,4 @@
 Generative Semantic Exploration (GSE)
-A Mathematical Framework for Controlled Creativity in Large Language Models
-https://img.shields.io/badge/arXiv-2401.xxxxx-b31b1b.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?logo=PyTorch&logoColor=white
 
 🎯 Important Notice: Proof of Concept Implementation
 ⚠️ CRITICAL CONTEXT: This repository contains a proof-of-concept implementation specifically designed and tested on NVIDIA T2000 Quadro with limited VRAM. The current code demonstrates the core mathematical principles but requires significant scaling for production use with actual large language models.
