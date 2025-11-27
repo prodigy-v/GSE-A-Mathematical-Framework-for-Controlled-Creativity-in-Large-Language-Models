@@ -74,7 +74,7 @@ NVIDIA GPU with ≥4GB VRAM (tested on T2000 Quadro)
 
 Installation
 bash
-git clone https://github.com/yourusername/generative-semantic-exploration.git
+git clone https://github.com/prodigy-v/GSE-A-Mathematical-Framework-for-Controlled-Creativity-in-Large-Language-Models.git
 cd generative-semantic-exploration
 pip install -r requirements.txt
 🧪 Usage Examples
