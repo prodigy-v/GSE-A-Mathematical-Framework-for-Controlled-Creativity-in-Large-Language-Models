@@ -173,12 +173,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Research Focus**: Primary contribution is theoretical framework
 - **Hardware Limitations**: Designed specifically for T2000 Quadro constraints
 
-## 👨‍💻 Author
-
-**Omenyo Laban**  
-Independent Researcher  
-Mbarara, Uganda  
-ORCID: 0009-0007-0265-6168
 
 ---
 
